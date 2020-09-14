@@ -4,8 +4,8 @@ This log lists the architectural decisions for waSCC.
 
 |Status | ADR | Description |
 | :--: | :--: |--|
-| Accepted | [ADR-0000](0000-use-markdown-architectural-decision-records.md) | Use Markdown Architectural Decision Records |
-| Accepted | [ADR-0001](0001-use-actor-model.md) | Use the Actor model for WebAssembly modules |
+| Accepted | [0000](0000-use-markdown-architectural-decision-records.md) | Use Markdown Architectural Decision Records |
+| Accepted | [0001](0001-use-actor-model.md) | Use the Actor model for WebAssembly modules |
 
 For new ADRs, please use [template.md](template.md).
 
