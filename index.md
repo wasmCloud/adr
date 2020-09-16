@@ -7,6 +7,7 @@ This log lists the architectural decisions for waSCC.
 | Accepted | [0000](0000-use-markdown-architectural-decision-records.md) | Use Markdown Architectural Decision Records |
 | Accepted | [0001](0001-use-actor-model.md) | Use the Actor model for WebAssembly modules |
 | Accepted | [0002](0002-stateless-actors.md) | Actors are Stateless |
+| Accepted | [0003](0003-use-nats-for-lattice.md) | Use NATS as the foundation for lattice |
 
 For new ADRs, please use [template.md](template.md).
 
