@@ -10,7 +10,7 @@ This log lists the architectural decisions for waSCC.
 | Accepted | [0003](0003-use-nats-for-lattice.md) | Use NATS as the foundation for lattice |
 | Accepted | [0004](0004-enforce-signed-artifacts.md) | Enforce signed artifacts during OCI registry interactions |
 | Accepted | [0005](0005-security-nkeys.md) | Flexible security foundation based on ed25519 PKI |
-
+| Accepted | [0006](0006-actor-to-actor.md) | Actor-to-actor calls are allowed by default |
 
 For new ADRs, please use [template.md](template.md).
 
