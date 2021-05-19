@@ -11,6 +11,7 @@ This log lists the architectural decisions for waSCC.
 | Accepted | [0004](0004-enforce-signed-artifacts.md) | Enforce signed artifacts during OCI registry interactions |
 | Accepted | [0005](0005-security-nkeys.md) | Flexible security foundation based on ed25519 PKI |
 | Accepted | [0006](0006-actor-to-actor.md) | Actor-to-actor calls are allowed by default |
+| Accepted | [0007](0007-tenancy.md) | The wasmCloud Host is the smallest unit of tenancy |
 
 For new ADRs, please use [template.md](template.md).
 
