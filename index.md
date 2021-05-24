@@ -1,6 +1,6 @@
 # Architectural Decision Log
 
-This log lists the architectural decisions for waSCC.
+This log lists the architectural decisions for wasmCloud.
 
 |Status | ADR | Description |
 | :--: | :--: |--|
@@ -12,6 +12,7 @@ This log lists the architectural decisions for waSCC.
 | Accepted | [0005](0005-security-nkeys.md) | Flexible security foundation based on ed25519 PKI |
 | Accepted | [0006](0006-actor-to-actor.md) | Actor-to-actor calls are allowed by default |
 | Accepted | [0007](0007-tenancy.md) | The wasmCloud Host is the smallest unit of tenancy |
+| Accepted | [0008](0008-embedded.md) | wasmCloud Host will not run on embedded devices w/out an OS |
 
 For new ADRs, please use [template.md](template.md).
 
