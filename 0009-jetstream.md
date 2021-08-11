@@ -38,7 +38,7 @@ Chosen option: _**Use NATS JetStream**_, because this is the only option that ac
 
 ### Negative Consequences
 
-* Requires developers to enable the JetStream feature when starting NATs servers for development (goes to developer experience)
+* Requires developers to enable the JetStream feature when starting NATS servers for development (goes to developer experience)
 
 ## Pros and Cons of the Options
 
