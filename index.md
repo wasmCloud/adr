@@ -14,6 +14,7 @@ This log lists the architectural decisions for wasmCloud.
 | Accepted | [0007](0007-tenancy.md) | The wasmCloud Host is the smallest unit of tenancy |
 | Accepted | [0008](0008-embedded.md) | wasmCloud Host will not run on embedded devices w/out an OS |
 | Accepted | [0009](0009-jetstream.md) | Use NATS JetStream for distributed cache |
+| Accepted | [0010](0010-otp.md) | Use Elixir/OTP for the main cloud host runtime |
 
 For new ADRs, please use [template.md](template.md).
 
