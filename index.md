@@ -15,6 +15,7 @@ This log lists the architectural decisions for wasmCloud.
 | Accepted | [0008](0008-embedded.md) | wasmCloud Host will not run on embedded devices w/out an OS |
 | Accepted | [0009](0009-jetstream.md) | Use NATS JetStream for distributed cache |
 | Accepted | [0010](0010-otp.md) | Use Elixir/OTP for the main cloud host runtime |
+| Accepted | [0011](0011-split-rpc-events.md) | Separate RPC/invocation events from regular events on wasmbus |
 
 For new ADRs, please use [template.md](template.md).
 
